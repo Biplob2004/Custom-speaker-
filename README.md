@@ -1,1 +1,2 @@
+Welcome to my personal website! This project is a simple, responsive web page built with HTML, CSS, and JavaScript, and hosted using GitHub Pages. The site features a basic layout with a header, content section, and interactive button. It's perfect for showcasing a personal profile, portfolio, or a simple web experiment. All files are self-contained and easily customizable. Feel free to explore, learn, and fork the repository to make it your own!
 # Custom-speaker-
